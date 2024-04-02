@@ -1,0 +1,216 @@
+body{
+    text-align: center;
+    margin: 0;
+    padding: 0;  
+}
+li, a{
+    text-decoration: none;
+    padding: 10px;
+    align-self: center;
+    color: white;
+    list-style-type: none;
+    margin-bottom:-5px ;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 16px ;
+    background-color: rgb(189, 211, 216);
+    align-content: center;
+} 
+@media  screen and (max-width:767px) {
+  
+    .navbar{
+        display: flex;
+        align-items: center;
+
+        text-align: center;
+    
+    }
+    
+}
+.s1{
+    background-image: url(7.jpg);
+    margin-top: -20px;
+    
+}
+nav{
+text-decoration: none;
+    text-align: right;
+}
+nav ul li{
+    list-style: none;
+    display: inline-block;
+    margin-left: 15px; 
+}
+col{
+    flex-basis: 50%;
+}
+h1{
+    color: black;
+    font-size: 70px;
+}
+p{
+    color: white;
+    font-size: 11px;
+    line-height: 15px;
+}
+button{
+    width: 180px;
+    color: 000;
+    font-size: 12px 0;
+    background: white;
+    border: 0;
+    border-radius: 20px;
+    outline: none;
+    background-color:red ;
+
+}
+.card{
+    display: inline;
+    margin-left: 45px;
+    width: 200px;
+    height: 200px;
+    margin-bottom: -30px;
+
+}
+.card0{
+    display: inline;
+}
+.card img ,.card1 img{
+height: 200px;
+width: 200px;
+}
+body{
+    background-color: white;
+}
+h6{
+    color: white;
+    font-size: 10px;
+    margin-top: -15px;
+    padding: 20px;
+}
+h1{
+    padding-left: 15px;
+    margin-left: 30px;
+    font-size: 70px;
+}
+.s0{
+display: inline-flex;
+text-align: center;
+margin-right: 86px;
+padding: 50px;
+}
+.s0,.s2,img{
+    width: 200px;
+    height: 200px;
+    display: inline-flex;
+}
+.h2{
+    display: inline-flex;
+    margin-left: 15px;
+    height: 15px;
+    color: white;
+}
+button{
+    background-color: red;
+    width: 120px;
+    height: 40px;
+}
+.s2{
+    margin-left: 45px;
+    width: 200px;
+    height: 200px;
+    display: inline;
+}
+.card1{
+    height: 15px;
+    margin-left: 15px;
+}
+.card0{
+    display: inline;
+    width: 10px;
+height: 10px;
+margin-right:20px ;
+}
+.card01{
+    width: 10px;
+    height: 10px;
+margin-left: 20px;
+}
+.c1{
+    margin-top: -50px;
+    margin-left: 5px;
+}
+.card0 img{
+height: 200px;
+width: 200px;
+margin-right: 40px;
+}
+.card img{
+height: 300px;
+width: 300px;
+}
+.s1{
+
+    margin-top: -30px;
+    color: white
+}
+.s2 img{
+width: 200px;
+height: 300px;
+padding: 10px;
+}
+.s3{
+    background-image: url(7.jpg);
+    margin-top: -40px;
+  
+}
+.h1{
+    margin-left:15px ;
+    padding-left:20px ;
+    font-size: 70px; 
+    color: black;
+}
+h6{
+    color: white;
+    display: inline-flex;
+    margin-left: 15px;
+    height: 15px;
+    font-size: 15px;
+    padding: 20px;
+}
+button:hover{
+background-color: red;
+height: 40px;
+width: 130px;
+}
+.s4 img{
+    height: 200;
+    width: 200px;
+    padding: 10px;
+}
+li{
+    list-style-type:none;
+}
+    
+    
+
+
+
+    
+
+
+
+
+
+
+
+
+    
+
+
+
+   
+
